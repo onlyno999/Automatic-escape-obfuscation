@@ -1,0 +1,1 @@
+{"dependencies":{"acorn":"^8.14.0","javascript-obfuscator":"^4.1.1"},"description":"把粘贴到 abc.js 的代码自动转义+混淆，生成 _worker.js","name":"automatic-escape-obfuscation","private":true,"scripts":{"build":"node scripts/transform.mjs abc.js _worker.js"},"version":"1.0.0"}
